@@ -35,8 +35,8 @@ dependencies = {
         copyrightFile: "../../../../COPYRIGHT"
     },
     {
-        name: "../custom/layerOther.js",
-        dependencies: ["custom.layerOther"],
+        name: "../custom/layerMain.js",
+        dependencies: ["custom.layerMain"],
         copyrightFile: "../../../../COPYRIGHT"
     }],
     prefixes: [
