@@ -1,0 +1,18 @@
+{
+LOGIN : "Anmelden",
+USER : "Benutzer",
+PASSWORD : "Passwort",
+WELCOME : "Bitte melden Sie sich am System an.",
+PROCESSING : "Sie werden angemeldet, bitte warten...",
+ERROR_DB_LOCK_ALREADY_ACTIVE : "Es existiert bereits eine aktive Sitzung.",
+ERROR_INTERNAL : "Ihre Sitzung wurde auf Grund eines internen Fehlers automatisch vorzeitig beendet.",
+ERROR_AUTH : "Ihre Sitzung ist abgelaufen.",
+ERROR_JS : "JavaScript Client Fehler.",
+ERROR_UNKNOWN : "Ihre Sitzung wurde auf Grund eines unerwarteten Fehlers automatisch vorzeitig beendet.",
+ERROR_INVALID_SERVER_RESPONSE : "Ungültige Serverantwort. Bitte kontaktieren Sie Ihren Systembetreuer.",
+ERROR_MISSING_CREDENTIALS : "Bitte geben Sie Benutzername und Passwort an.",
+ERROR_MAX_FAILED_ATTEMPTS_REACHED : "Maximale Anzahl an fehlgeschlagenen Anmeldeversuchen wurde erreicht.",
+ERROR_ACCOUNT_DISABLED : "Konto ist deaktiviert.",
+ERROR_FAILED : "Anmeldung fehlgeschlagen. Bitte überprüfen Sie Benutzername und Passwort.",
+ERROR_SESSION_HIJACK : "Ihre Sitzung wurde aus Sicherheitsgründen beendet.",
+ERROR_LDAP_BIND_FAILED : "Es konnte keine Verbindung mit dem LDAP Server aufgebaut werden."}
